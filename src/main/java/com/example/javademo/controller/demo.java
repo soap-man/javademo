@@ -8,7 +8,7 @@ public class demo {
 
     @RequestMapping("/index")
     public String index(){
-        return "OK";
+        return "OK OKKK";
     }
 
 }
